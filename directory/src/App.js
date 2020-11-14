@@ -11,17 +11,24 @@ class App extends Component {
 
   handleButtonClickAsc = (event) => {
     event.preventDefault();
-    //console.log("reached btn click, ", this.state.friends)
-    this.sortEmployees(this.state.friends);
+    this.sortEmployees(this.state.employees);
   };
 
   handleButtonClickDesc = (event) => {
     event.preventDefault();
-    //console.log("reached btn click, ", this.state.friends)
-    this.sortReverseEmployees(this.state.friends);
+    this.sortReverseEmployees(this.state.employees);
   };
 
-
+  sortEmployees = (employees) => {
+    const newEmployees = [...employees];
+    newEmployees
+    .sort(function(x, y) { 
+      if (x.name.toLowerCase() < y.name.toLowerCase()) return -1;
+      if (x.name.toLowerCase() > y.name.toLowerCase()) return 1;
+      return 0;
+    })
+    this.setState({employees: newEmployees});
+  }
 
   render() {
 
