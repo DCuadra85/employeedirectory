@@ -1,7 +1,5 @@
 import React from "react";
 
-import "./style.css";
-
 function EmployeeTable(employee) {
   return (
     <div className="card">
