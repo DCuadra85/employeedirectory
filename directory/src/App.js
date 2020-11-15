@@ -7,8 +7,6 @@ import Form from "./Components/searchForm"
 import Wrapper from "./Wrapper"
 import employees from "./employees.json"
 
-
-
 class App extends Component {
   state = {
     employees,
@@ -71,8 +69,8 @@ class App extends Component {
   };
 
   render() {
-    return(
-    <>
+    return (
+   <> 
     <Wrapper>
       <NavBar />
 
@@ -93,7 +91,7 @@ class App extends Component {
         />
       ))};
       </Wrapper>
-    </>
+      </>
     );
 
   }
