@@ -1,0 +1,72 @@
+[
+    {
+        "image": "https://randomuser.me/api/portraits/women/7.jpg",
+        "name": "Lucille Gordon",
+        "phone": "(759)-810-3505",
+        "email": "lucille.gordon@example.com",
+        "dob": "1/3/1961"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/women/66.jpg",
+        "name": "Natalie Rivera",
+        "phone": "(568)-944-1079",
+        "email": "natalie.rivera@example.com",
+        "dob": "9/7/1991"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/women/23.jpg",
+        "name": "Misty Collins",
+        "phone": "(819)-326-2898",
+        "email": "misty.collins@example.com",
+        "dob": "12/6/1948"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/75.jpg",
+        "name": "Floyd Chapman",
+        "phone": "(940)-394-2085",
+        "email": "floyd.chapman@example.com",
+        "dob": "1/15/76"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/54.jpg",
+        "name": "Javier Wells",
+        "phone": "(851)-113-9890",
+        "email": "javier.wells@example.com",
+        "dob": "10/7/1978"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Bradley May",
+        "phone": "(782)-654-7925",
+        "email": "bradley.may@example.com",
+        "dob": "2/7/1945"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "name": "Floyd Gonzalez",
+        "phone": "(478)-306-2714",
+        "email": "floyd.gonzalez@example.com",
+        "dob": "1/4/1948"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/29.jpg",
+        "name": "Vincent Russell",
+        "phone": "(628)-023-0511",
+        "email": "vincent.russell@example.com",
+        "dob": "4/5/1950"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/men/28.jpg",
+        "name": "Philip Jimenez",
+        "phone": "(293)-289-0649",
+        "email": "philip.jimenez@example.com",
+        "dob": "8/3/1994"
+    },
+    {
+        "image": "https://randomuser.me/api/portraits/women/56.jpg",
+        "name": "Sara Fields",
+        "phone": "(684)-832-1446",
+        "email": "sara.fields@example.com",
+        "dob": "5/3/1949"
+    }
+]
